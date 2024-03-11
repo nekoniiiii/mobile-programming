@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculateArea</string>
+    <string name="number1">Enter first number</string>
+    <string name="number2">Enter second number</string>
+</resources>
